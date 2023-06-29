@@ -1,11 +1,7 @@
 node-red-heroku
 ================
 
-A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https://www.heroku.com).
-
-### Deploying Node-RED into Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/joeartsea/node-red-heroku)
+A wrapper for deploying [Node-RED](http://nodered.org) with Postgres.
 
 ### Password protect the flow editor
 
